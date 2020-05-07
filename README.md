@@ -16,13 +16,11 @@ You can see this repository running on [GitHub Pages](https://pages.github.com/)
 
 ## Run locally
 
-Since these are all static assets you can serve them locally with a simple web server, e.g.
+Since these are all static assets you can open the file locally in a web browsers, e.g.
 
-    python -m SimpleHTTPServer 8888
+    firefox index.html
 
-You can now view your page at http://localhost:8888
-
-If you're getting an error running this command, see more detailed insturctions on [MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server).
+You can now view your page at file://path/to/index.html
 
 ## Go live
 
